@@ -1,1 +1,37 @@
+Sales Dashboard
+
+Overview
+This Tableau dashboard provides insights into video game sales using the dataset sourced from Kaggle (https://www.kaggle.com/datasets/gregorut/videogamesales)
+The dashboard aims to offer a comprehensive view of sales trends, genre popularity, top-selling titles, platforms, and publishers within the video game industry.
+
+Features
+1. Total Sales by Genre
+This section illustrates the distribution of video game sales across different genres, helping users understand which genres are the most profitable.
+
+2. Sales by Year and Genre
+Users can analyze sales trends over time within each genre, identifying any notable patterns or fluctuations in sales performance.
+
+3. Top 10 Sales
+This section showcases the top-selling video games, providing insights into which titles have achieved the highest sales figures.
+
+4. Top 10 Sales by Platform
+Users can explore the top-selling gaming platforms, gaining insights into the most popular consoles or devices driving sales.
+
+5. Top 10 Sales by Publisher
+This section identifies the top publishers based on sales, helping users understand which companies dominate the video game market.
+
+Additional Information
+Total counts for video game names, platforms, genres, and publishers are provided to offer context and aid in understanding the distribution of these variables within the dataset.
+
+Usage
+Download Tableau Desktop or use Tableau Online to access the dashboard.
+Import the provided dataset into Tableau.
+Open the Tableau workbook containing the dashboard.
+Explore different sections of the dashboard by clicking on the respective tabs or filters.
+Interact with the visualizations to extract insights and analyze the data.
+Data Source
+The dataset used in this dashboard was obtained from Kaggle and contains information on video game sales.
+
+Credits
+Dataset Source: Kaggle - Video Game Sales Dataset
 
